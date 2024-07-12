@@ -13,6 +13,7 @@ Ce projet Python vise à estimer les paramètres de diverses distributions stati
 5. [Références](#references)
 
 <a name="donnees"></a>
+
 ## Données
 
 Nous disposons de la série de données suivante :
@@ -27,3 +28,13 @@ data = [0.528, 0.452, 1.33, 0.626, 4.504, 1.011, 3.801, 1.685, 0.944, 10.691,
         2.288, 1.147, 0.438, 0.488, 0.305, 0.11, 0.432, 1.022, 0.846, 0.607,
         0.102, 0.475, 0.459, 1.545, 1.992, 1.558, 1.305, 1.103, 0.568, 1.042,
         2.055, 1.412, 5.709, 1.772, 0.41, 1.137, 1.705, 0.389, 0.833, 0.275]
+
+## Prérequis
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine:
+- Python 3.x
+- Bibliothèques Python: requirements.txt
+
+## Installation
+Clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante:
+```bash
+git clone https://github.com/judeLuther/calibration-distribution.git
