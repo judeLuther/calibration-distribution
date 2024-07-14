@@ -1,5 +1,8 @@
 # Calibration d'une distribution
 
+## Auteurs
+- **LECKOMBA Jude Luther**
+
 Ce projet Python vise à estimer les paramètres de diverses distributions statistiques pour une série de données donnée, en utilisant les méthodes des moments (mme) et du maximum de vraisemblance (mle). Nous évaluerons également la pertinence de ces distributions pour les données fournies.
 
 ![Image result](images/result.png)
